@@ -1,0 +1,34 @@
+/* Reset CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  color: orange;
+}
+
+strong {
+  color: blue;
+}
+
+span {
+      color: rgb(37, 99, 156);
+    }
+
+p {
+  color: red;
+}
+
+.tip-box {
+      background-color:rgb(235, 235, 148);
+      padding: 10px;
+      border-left: 4px solid gold;
+      color: black;
+      }     
+.tip-box .green {
+  color: green;
+}
+.tip-box p{
+        color:black;
+      }
